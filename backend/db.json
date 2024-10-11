@@ -19,10 +19,16 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "Testando função de editar",
+      "conteudo": "Testando função de editar!",
       "autoria": "Angular ",
       "modelo": "modelo2",
       "id": 4
+    },
+    {
+      "conteudo": "\"Só sei que nada sei!\"",
+      "autoria": "Seu Madruga",
+      "modelo": "modelo1",
+      "id": 5
     }
   ]
 }
